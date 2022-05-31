@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\bin\Debug\net6.0\Exercism-Tournament.exe
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\bin\Debug\net6.0\Exercism-Tournament.deps.json
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\bin\Debug\net6.0\Exercism-Tournament.runtimeconfig.json
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\bin\Debug\net6.0\Exercism-Tournament.dll
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\bin\Debug\net6.0\ref\Exercism-Tournament.dll
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\bin\Debug\net6.0\Exercism-Tournament.pdb
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.AssemblyInfo.cs
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.dll
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\ref\Exercism-Tournament.dll
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.pdb
+C:\Users\pc\source\repos\Exercism-Tournament\Exercism-Tournament\obj\Debug\net6.0\Exercism-Tournament.genruntimeconfig.cache
