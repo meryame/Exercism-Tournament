@@ -53,7 +53,7 @@ namespace Exercism_Tournament
     }
     public class Team
     {
-        public int Wins { set; get; }
+        public int Wins { get; set; }
         public int Losses { set; get; }
         public int Draws { set; get; }
         public int Matches => Wins + Losses + Draws;
